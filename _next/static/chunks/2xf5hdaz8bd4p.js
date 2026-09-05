@@ -1,1 +1,1 @@
-PLACEHOLDER
+(globalThis.TURBOPACK||(globalThis.TURBOPACK=[])).push(["object"==typeof document?document.currentScript:void 0,28977,e=>{"use strict"; SEE_FILE_/tmp/create_2xf_args.json
